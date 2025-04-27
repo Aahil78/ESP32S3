@@ -11,3 +11,6 @@ This is a custom ESP32-S3 based Developement board.
     - And more
 
 #2 NOTE: This is still a wip, new features and files will be added, there is no garuntee of stability, files still to be added.
+
+# Design
+This project is designed in EasyEDA Pro, and uses basic components.
