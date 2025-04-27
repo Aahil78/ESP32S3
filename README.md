@@ -14,3 +14,10 @@ This is a custom ESP32-S3 based Developement board.
 
 # Design
 This project is designed in EasyEDA Pro, and uses basic components. It uses the ESP32-S3-WROOM-1 Module, an LDO, RGB LED(SK6812), OLED Display, Pull-ups and pull-downs, capacitors, a sink ic, ype c port, etc.
+
+# Use Case
+    - IoT
+    - AIoT
+    - DIY Robotics
+    - Research
+    - And more!
